@@ -7,7 +7,7 @@ This project is designed as a beginner-to-intermediate backend project and is su
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 The objective of this project is to build a backend service that allows clients to perform CRUD (Create, Read, Update, Delete) operations on student data using REST principles.
 
@@ -15,7 +15,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create a new student record
 - Retrieve all student records
@@ -28,7 +28,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - **Programming Language:** Python  
 - **Framework:** Django  
@@ -38,7 +38,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 
 - HTTP Protocol
 - HTTP Methods (GET, POST, PUT, PATCH, DELETE)
@@ -51,7 +51,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 
 ---
 
-## 🌐 REST API Endpoints
+## REST API Endpoints
 
 | HTTP Method | Endpoint | Description |
 |------------|----------|-------------|
@@ -64,7 +64,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 
 ---
 
-## 📦 Sample JSON Request
+## Sample JSON Request
 
 ```json
 {
@@ -74,7 +74,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
   "age": 23
 }
 ```
-## 📦 Sample JSON Response
+## Sample JSON Response
 
 ```json
 {
@@ -88,11 +88,11 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 ---
 
 ## Request–Response Flow
-Client → HTTP Request → Django REST API → Database
-Client ← JSON Response ← Django REST API ← Database
+-Client → HTTP Request → Django REST API → Database
+-Client ← JSON Response ← Django REST API ← Database
 
 ---
 
-##Live API
+## Live API
 https://student-management-api-p1oa.onrender.com/students/
 
