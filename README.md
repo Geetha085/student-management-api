@@ -88,8 +88,8 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 ---
 
 ## Request–Response Flow
--Client → HTTP Request → Django REST API → Database
--Client ← JSON Response ← Django REST API ← Database
+- Client → HTTP Request → Django REST API → Database
+- Client ← JSON Response ← Django REST API ← Database
 
 ---
 
