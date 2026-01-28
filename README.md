@@ -73,7 +73,7 @@ The API follows a clean and standard RESTful design and communicates using JSON 
   "course": "BBA",
   "age": 23
 }
----
+```
 ## 📦 Sample JSON Response
 
 ```json
@@ -84,11 +84,15 @@ The API follows a clean and standard RESTful design and communicates using JSON 
   "course": "MCA",
   "age": 23
 }
+```
+---
 
-
-Request–Response Flow
+## Request–Response Flow
 Client → HTTP Request → Django REST API → Database
 Client ← JSON Response ← Django REST API ← Database
 
-Live API
-https://student-management-api-p1oa.onrender.com
+---
+
+##Live API
+https://student-management-api-p1oa.onrender.com/students/
+
