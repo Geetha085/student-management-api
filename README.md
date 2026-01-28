@@ -79,9 +79,9 @@ The API follows a clean and standard RESTful design and communicates using JSON 
 ```json
 {
   "id": 1,
-  "name": "Geetha",
-  "email": "geetha@gmail.com",
-  "course": "MCA",
+  "name": "Ravi",
+  "email": "ravi@gmail.com",
+  "course": "BBA",
   "age": 23
 }
 ```
